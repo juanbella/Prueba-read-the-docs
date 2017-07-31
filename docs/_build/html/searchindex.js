@@ -1,1 +1,1 @@
-Search.setIndex({docnames:["index"],envversion:53,filenames:["index.md"],objects:{},objnames:{},objtypes:{},terms:{prueb:0},titles:["&lt;no title&gt;"],titleterms:{}})
+Search.setIndex({docnames:["index"],envversion:53,filenames:["index.md"],objects:{},objnames:{},objtypes:{},terms:{bell:0,dat:0,datafram:0,ficher:0,grib:0,intriduc:0,juan:0,netcdf:0,obtien:0,prueb:[],pygrib:0},titles:["Documentaci\u00f3n"],titleterms:{document:0,netcdf_to_df:0,pygrib_to_df:0}})
