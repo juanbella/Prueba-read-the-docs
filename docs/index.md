@@ -1,7 +1,7 @@
 # Documentación
 
-% pygrib y netcdf
-% Juan Bella
+**pygrib y netcdf**
+**Juan Bella**
 
 1. pygrib\_to\_df
 2. netcdf\_to\_df
